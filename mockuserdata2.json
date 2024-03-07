@@ -1,0 +1,702 @@
+[
+	{
+		"nama": "Steven Dillard",
+		"email": "purus.nullam@outlook.couk",
+		"tanggal_lahir": "1987-05-19",
+		"role": "admin",
+		"umur": 22
+	},
+	{
+		"nama": "Dai Wilkinson",
+		"email": "consequat.enim.diam@yahoo.edu",
+		"tanggal_lahir": "1998-10-07",
+		"role": "admin",
+		"umur": 40
+	},
+	{
+		"nama": "Emmanuel Wall",
+		"email": "ligula@yahoo.ca",
+		"tanggal_lahir": "2002-04-24",
+		"role": "siswa",
+		"umur": 28
+	},
+	{
+		"nama": "Zephr Hines",
+		"email": "erat.vitae@yahoo.net",
+		"tanggal_lahir": "2002-04-10",
+		"role": "siswa",
+		"umur": 38
+	},
+	{
+		"nama": "Fay Orr",
+		"email": "justo.sit.amet@protonmail.net",
+		"tanggal_lahir": "2005-12-01",
+		"role": "guru",
+		"umur": 39
+	},
+	{
+		"nama": "Kermit Gaines",
+		"email": "donec@protonmail.net",
+		"tanggal_lahir": "2022-02-25",
+		"role": "guru",
+		"umur": 25
+	},
+	{
+		"nama": "Gloria Heath",
+		"email": "vestibulum.neque.sed@protonmail.org",
+		"tanggal_lahir": "1985-08-20",
+		"role": "admin",
+		"umur": 35
+	},
+	{
+		"nama": "Prescott Mason",
+		"email": "condimentum.eget@yahoo.net",
+		"tanggal_lahir": "1984-08-01",
+		"role": "admin",
+		"umur": 38
+	},
+	{
+		"nama": "Judah Harvey",
+		"email": "aliquet.proin.velit@hotmail.com",
+		"tanggal_lahir": "2007-04-28",
+		"role": "siswa",
+		"umur": 34
+	},
+	{
+		"nama": "Valentine Medina",
+		"email": "mi.tempor@outlook.edu",
+		"tanggal_lahir": "1983-05-17",
+		"role": "siswa",
+		"umur": 40
+	},
+	{
+		"nama": "Lani Logan",
+		"email": "pellentesque.habitant@yahoo.org",
+		"tanggal_lahir": "2008-07-11",
+		"role": "guru",
+		"umur": 30
+	},
+	{
+		"nama": "Cairo Campos",
+		"email": "penatibus.et@yahoo.org",
+		"tanggal_lahir": "1991-08-28",
+		"role": "guru",
+		"umur": 32
+	},
+	{
+		"nama": "Marcia Richards",
+		"email": "consectetuer@outlook.org",
+		"tanggal_lahir": "2009-05-29",
+		"role": "admin",
+		"umur": 24
+	},
+	{
+		"nama": "Kristen Ramirez",
+		"email": "odio.vel@icloud.edu",
+		"tanggal_lahir": "2005-02-21",
+		"role": "admin",
+		"umur": 28
+	},
+	{
+		"nama": "Amir Pitts",
+		"email": "quam@google.ca",
+		"tanggal_lahir": "2020-08-17",
+		"role": "siswa",
+		"umur": 40
+	},
+	{
+		"nama": "Rhoda Mathews",
+		"email": "diam.at@outlook.org",
+		"tanggal_lahir": "2010-10-26",
+		"role": "siswa",
+		"umur": 29
+	},
+	{
+		"nama": "Ali Dalton",
+		"email": "sed.facilisis@outlook.net",
+		"tanggal_lahir": "2012-01-28",
+		"role": "guru",
+		"umur": 30
+	},
+	{
+		"nama": "Doris Ware",
+		"email": "amet.ante@google.ca",
+		"tanggal_lahir": "2002-05-28",
+		"role": "guru",
+		"umur": 21
+	},
+	{
+		"nama": "Serena Skinner",
+		"email": "pretium.et@outlook.com",
+		"tanggal_lahir": "2017-10-30",
+		"role": "admin",
+		"umur": 23
+	},
+	{
+		"nama": "Steven Ellison",
+		"email": "magna.a@outlook.net",
+		"tanggal_lahir": "2012-02-08",
+		"role": "admin",
+		"umur": 32
+	},
+	{
+		"nama": "Alea Welch",
+		"email": "id@hotmail.net",
+		"tanggal_lahir": "2010-11-25",
+		"role": "siswa",
+		"umur": 33
+	},
+	{
+		"nama": "Madaline Branch",
+		"email": "mauris.sit@icloud.ca",
+		"tanggal_lahir": "2012-03-22",
+		"role": "siswa",
+		"umur": 37
+	},
+	{
+		"nama": "Vladimir Lee",
+		"email": "nec@hotmail.ca",
+		"tanggal_lahir": "2014-11-18",
+		"role": "guru",
+		"umur": 28
+	},
+	{
+		"nama": "Jerome Sampson",
+		"email": "ipsum.suspendisse.sagittis@outlook.ca",
+		"tanggal_lahir": "2007-05-18",
+		"role": "guru",
+		"umur": 35
+	},
+	{
+		"nama": "Stone Hays",
+		"email": "hendrerit.consectetuer@hotmail.net",
+		"tanggal_lahir": "2007-04-07",
+		"role": "admin",
+		"umur": 35
+	},
+	{
+		"nama": "Paki Horton",
+		"email": "tellus.sem@hotmail.org",
+		"tanggal_lahir": "2018-10-09",
+		"role": "admin",
+		"umur": 38
+	},
+	{
+		"nama": "Alika Bond",
+		"email": "blandit@outlook.couk",
+		"tanggal_lahir": "2014-06-04",
+		"role": "siswa",
+		"umur": 22
+	},
+	{
+		"nama": "Buckminster Meyers",
+		"email": "orci@protonmail.ca",
+		"tanggal_lahir": "1985-06-04",
+		"role": "siswa",
+		"umur": 36
+	},
+	{
+		"nama": "Jerry Meadows",
+		"email": "euismod.est@protonmail.edu",
+		"tanggal_lahir": "2005-07-11",
+		"role": "guru",
+		"umur": 32
+	},
+	{
+		"nama": "Judith Shaw",
+		"email": "tristique.senectus@aol.com",
+		"tanggal_lahir": "2009-04-11",
+		"role": "guru",
+		"umur": 39
+	},
+	{
+		"nama": "Winifred Battle",
+		"email": "vestibulum.ante.ipsum@aol.couk",
+		"tanggal_lahir": "1988-09-03",
+		"role": "admin",
+		"umur": 28
+	},
+	{
+		"nama": "Moses Lyons",
+		"email": "mauris@google.edu",
+		"tanggal_lahir": "1983-10-19",
+		"role": "admin",
+		"umur": 22
+	},
+	{
+		"nama": "Burton Cleveland",
+		"email": "dui.augue@protonmail.org",
+		"tanggal_lahir": "1988-12-17",
+		"role": "siswa",
+		"umur": 40
+	},
+	{
+		"nama": "Kennedy Prince",
+		"email": "ipsum.nunc@aol.com",
+		"tanggal_lahir": "2013-04-26",
+		"role": "siswa",
+		"umur": 36
+	},
+	{
+		"nama": "Renee Carpenter",
+		"email": "magna.phasellus@aol.com",
+		"tanggal_lahir": "2002-05-01",
+		"role": "guru",
+		"umur": 30
+	},
+	{
+		"nama": "Bradley Whitehead",
+		"email": "vehicula@aol.org",
+		"tanggal_lahir": "1999-10-12",
+		"role": "guru",
+		"umur": 27
+	},
+	{
+		"nama": "Ralph Foley",
+		"email": "consectetuer.euismod.est@protonmail.net",
+		"tanggal_lahir": "2009-05-18",
+		"role": "admin",
+		"umur": 29
+	},
+	{
+		"nama": "Hermione James",
+		"email": "adipiscing.elit@hotmail.com",
+		"tanggal_lahir": "1997-08-29",
+		"role": "admin",
+		"umur": 34
+	},
+	{
+		"nama": "MacKensie Vang",
+		"email": "in.aliquet.lobortis@hotmail.net",
+		"tanggal_lahir": "2016-07-17",
+		"role": "siswa",
+		"umur": 37
+	},
+	{
+		"nama": "Anthony Noble",
+		"email": "dapibus.id@icloud.ca",
+		"tanggal_lahir": "2002-10-21",
+		"role": "siswa",
+		"umur": 30
+	},
+	{
+		"nama": "Robin Pugh",
+		"email": "sagittis.lobortis@outlook.org",
+		"tanggal_lahir": "1999-06-02",
+		"role": "guru",
+		"umur": 22
+	},
+	{
+		"nama": "Honorato Kline",
+		"email": "felis.orci@yahoo.edu",
+		"tanggal_lahir": "1983-12-13",
+		"role": "guru",
+		"umur": 32
+	},
+	{
+		"nama": "Wang Alford",
+		"email": "mauris.integer@google.edu",
+		"tanggal_lahir": "1999-09-25",
+		"role": "admin",
+		"umur": 28
+	},
+	{
+		"nama": "Bradley Dominguez",
+		"email": "aliquet.sem.ut@aol.edu",
+		"tanggal_lahir": "2022-03-17",
+		"role": "admin",
+		"umur": 23
+	},
+	{
+		"nama": "Curran Hansen",
+		"email": "arcu@outlook.org",
+		"tanggal_lahir": "2019-02-12",
+		"role": "siswa",
+		"umur": 21
+	},
+	{
+		"nama": "Dalton Bender",
+		"email": "pellentesque.ut@protonmail.couk",
+		"tanggal_lahir": "1988-07-16",
+		"role": "siswa",
+		"umur": 39
+	},
+	{
+		"nama": "Flavia Hammond",
+		"email": "aliquam@yahoo.edu",
+		"tanggal_lahir": "1988-08-08",
+		"role": "guru",
+		"umur": 21
+	},
+	{
+		"nama": "Cyrus O'donnell",
+		"email": "aliquam@google.edu",
+		"tanggal_lahir": "2004-07-26",
+		"role": "guru",
+		"umur": 31
+	},
+	{
+		"nama": "Laura Lyons",
+		"email": "nec.luctus.felis@protonmail.org",
+		"tanggal_lahir": "2006-12-19",
+		"role": "admin",
+		"umur": 28
+	},
+	{
+		"nama": "Xander Kent",
+		"email": "lorem@icloud.couk",
+		"tanggal_lahir": "2004-10-02",
+		"role": "admin",
+		"umur": 37
+	},
+	{
+		"nama": "Suki Patterson",
+		"email": "vel.sapien.imperdiet@aol.edu",
+		"tanggal_lahir": "2018-02-18",
+		"role": "siswa",
+		"umur": 28
+	},
+	{
+		"nama": "Elvis House",
+		"email": "mollis.dui.in@yahoo.com",
+		"tanggal_lahir": "1995-05-23",
+		"role": "siswa",
+		"umur": 31
+	},
+	{
+		"nama": "Lilah Santana",
+		"email": "vitae.orci@yahoo.edu",
+		"tanggal_lahir": "1999-07-04",
+		"role": "guru",
+		"umur": 29
+	},
+	{
+		"nama": "Nita Morales",
+		"email": "mus.donec.dignissim@outlook.org",
+		"tanggal_lahir": "1993-04-19",
+		"role": "guru",
+		"umur": 25
+	},
+	{
+		"nama": "Jacqueline Brooks",
+		"email": "ante.iaculis@hotmail.net",
+		"tanggal_lahir": "2019-02-03",
+		"role": "admin",
+		"umur": 35
+	},
+	{
+		"nama": "Nicholas Meadows",
+		"email": "a.aliquet@icloud.couk",
+		"tanggal_lahir": "2001-02-05",
+		"role": "admin",
+		"umur": 25
+	},
+	{
+		"nama": "Jonas Duran",
+		"email": "fermentum.arcu@yahoo.edu",
+		"tanggal_lahir": "1984-06-15",
+		"role": "siswa",
+		"umur": 34
+	},
+	{
+		"nama": "Adria Dunlap",
+		"email": "ut.quam.vel@hotmail.net",
+		"tanggal_lahir": "2014-10-17",
+		"role": "siswa",
+		"umur": 37
+	},
+	{
+		"nama": "Karyn Foreman",
+		"email": "mauris.aliquam@outlook.ca",
+		"tanggal_lahir": "2011-11-03",
+		"role": "guru",
+		"umur": 34
+	},
+	{
+		"nama": "Cooper Ashley",
+		"email": "dapibus.id.blandit@yahoo.org",
+		"tanggal_lahir": "2007-06-30",
+		"role": "guru",
+		"umur": 38
+	},
+	{
+		"nama": "Alexander Knowles",
+		"email": "donec.porttitor@outlook.couk",
+		"tanggal_lahir": "2019-05-05",
+		"role": "admin",
+		"umur": 26
+	},
+	{
+		"nama": "Emerson Merrill",
+		"email": "sociis@hotmail.couk",
+		"tanggal_lahir": "2008-03-15",
+		"role": "admin",
+		"umur": 25
+	},
+	{
+		"nama": "Mia Hardy",
+		"email": "fames.ac@google.net",
+		"tanggal_lahir": "1987-06-05",
+		"role": "siswa",
+		"umur": 29
+	},
+	{
+		"nama": "Gail Griffin",
+		"email": "dapibus@icloud.org",
+		"tanggal_lahir": "2021-07-19",
+		"role": "siswa",
+		"umur": 23
+	},
+	{
+		"nama": "Oren Stephenson",
+		"email": "quisque@outlook.com",
+		"tanggal_lahir": "1998-07-28",
+		"role": "guru",
+		"umur": 25
+	},
+	{
+		"nama": "Chaim Daniel",
+		"email": "dolor.sit@hotmail.net",
+		"tanggal_lahir": "1986-09-13",
+		"role": "guru",
+		"umur": 25
+	},
+	{
+		"nama": "Maxwell Stewart",
+		"email": "montes.nascetur@aol.org",
+		"tanggal_lahir": "1988-01-28",
+		"role": "admin",
+		"umur": 31
+	},
+	{
+		"nama": "Chaim Jackson",
+		"email": "proin.sed@google.edu",
+		"tanggal_lahir": "1983-08-25",
+		"role": "admin",
+		"umur": 39
+	},
+	{
+		"nama": "Zeph Manning",
+		"email": "ipsum@outlook.edu",
+		"tanggal_lahir": "2002-04-05",
+		"role": "siswa",
+		"umur": 23
+	},
+	{
+		"nama": "Erica Robinson",
+		"email": "hendrerit.donec@icloud.couk",
+		"tanggal_lahir": "2021-02-17",
+		"role": "siswa",
+		"umur": 27
+	},
+	{
+		"nama": "Garth Reilly",
+		"email": "vulputate.ullamcorper.magna@icloud.edu",
+		"tanggal_lahir": "2006-02-21",
+		"role": "guru",
+		"umur": 31
+	},
+	{
+		"nama": "Deanna House",
+		"email": "dolor@protonmail.edu",
+		"tanggal_lahir": "2003-12-29",
+		"role": "guru",
+		"umur": 31
+	},
+	{
+		"nama": "Chantale Simon",
+		"email": "donec@protonmail.org",
+		"tanggal_lahir": "2014-02-03",
+		"role": "admin",
+		"umur": 39
+	},
+	{
+		"nama": "Lani Figueroa",
+		"email": "nec.leo.morbi@outlook.com",
+		"tanggal_lahir": "2004-08-30",
+		"role": "admin",
+		"umur": 21
+	},
+	{
+		"nama": "Caesar Turner",
+		"email": "tincidunt@google.couk",
+		"tanggal_lahir": "1992-12-06",
+		"role": "siswa",
+		"umur": 25
+	},
+	{
+		"nama": "Gillian Pena",
+		"email": "auctor@google.couk",
+		"tanggal_lahir": "1996-07-01",
+		"role": "siswa",
+		"umur": 25
+	},
+	{
+		"nama": "Lysandra Baird",
+		"email": "a@google.org",
+		"tanggal_lahir": "2008-06-08",
+		"role": "guru",
+		"umur": 28
+	},
+	{
+		"nama": "Kenyon Munoz",
+		"email": "tortor@protonmail.edu",
+		"tanggal_lahir": "2002-06-07",
+		"role": "guru",
+		"umur": 24
+	},
+	{
+		"nama": "Amal Mcgee",
+		"email": "diam.pellentesque@yahoo.org",
+		"tanggal_lahir": "1993-11-06",
+		"role": "admin",
+		"umur": 22
+	},
+	{
+		"nama": "Flavia Knowles",
+		"email": "non.vestibulum@protonmail.couk",
+		"tanggal_lahir": "2015-09-17",
+		"role": "admin",
+		"umur": 32
+	},
+	{
+		"nama": "Cailin Preston",
+		"email": "nunc.interdum.feugiat@aol.ca",
+		"tanggal_lahir": "2016-04-25",
+		"role": "siswa",
+		"umur": 31
+	},
+	{
+		"nama": "Ali Bass",
+		"email": "libero.lacus@google.org",
+		"tanggal_lahir": "1995-08-21",
+		"role": "siswa",
+		"umur": 38
+	},
+	{
+		"nama": "Flavia Alvarado",
+		"email": "dictum@google.edu",
+		"tanggal_lahir": "2005-12-26",
+		"role": "guru",
+		"umur": 21
+	},
+	{
+		"nama": "Regina Gonzales",
+		"email": "purus.duis.elementum@google.couk",
+		"tanggal_lahir": "1988-10-11",
+		"role": "guru",
+		"umur": 29
+	},
+	{
+		"nama": "Jesse Macias",
+		"email": "pede@protonmail.org",
+		"tanggal_lahir": "1987-05-24",
+		"role": "admin",
+		"umur": 24
+	},
+	{
+		"nama": "Imogene Williams",
+		"email": "elit.curabitur.sed@icloud.couk",
+		"tanggal_lahir": "2007-11-02",
+		"role": "admin",
+		"umur": 32
+	},
+	{
+		"nama": "Jin Bird",
+		"email": "elit.sed.consequat@google.net",
+		"tanggal_lahir": "1987-10-08",
+		"role": "siswa",
+		"umur": 38
+	},
+	{
+		"nama": "Charissa Roberts",
+		"email": "neque.et.nunc@icloud.org",
+		"tanggal_lahir": "2000-03-04",
+		"role": "siswa",
+		"umur": 36
+	},
+	{
+		"nama": "Velma Duncan",
+		"email": "vulputate@icloud.net",
+		"tanggal_lahir": "1986-06-24",
+		"role": "guru",
+		"umur": 24
+	},
+	{
+		"nama": "Rachel Savage",
+		"email": "in.nec@aol.ca",
+		"tanggal_lahir": "2008-11-22",
+		"role": "guru",
+		"umur": 34
+	},
+	{
+		"nama": "Paul Dennis",
+		"email": "enim.sit@google.com",
+		"tanggal_lahir": "1989-06-11",
+		"role": "admin",
+		"umur": 39
+	},
+	{
+		"nama": "Lester Hurst",
+		"email": "orci.donec@icloud.net",
+		"tanggal_lahir": "2022-02-12",
+		"role": "admin",
+		"umur": 39
+	},
+	{
+		"nama": "Kay Rojas",
+		"email": "a@yahoo.org",
+		"tanggal_lahir": "2016-05-13",
+		"role": "siswa",
+		"umur": 28
+	},
+	{
+		"nama": "Dawn Shaw",
+		"email": "nascetur.ridiculus@yahoo.ca",
+		"tanggal_lahir": "1984-07-03",
+		"role": "siswa",
+		"umur": 39
+	},
+	{
+		"nama": "Donna Olsen",
+		"email": "sem.nulla@hotmail.com",
+		"tanggal_lahir": "2019-09-26",
+		"role": "guru",
+		"umur": 25
+	},
+	{
+		"nama": "Yasir Cole",
+		"email": "et.tristique@protonmail.net",
+		"tanggal_lahir": "1989-09-24",
+		"role": "guru",
+		"umur": 23
+	},
+	{
+		"nama": "Aline Lee",
+		"email": "velit@aol.ca",
+		"tanggal_lahir": "2005-07-25",
+		"role": "admin",
+		"umur": 33
+	},
+	{
+		"nama": "Kevyn Parks",
+		"email": "dis@yahoo.com",
+		"tanggal_lahir": "2014-10-09",
+		"role": "admin",
+		"umur": 24
+	},
+	{
+		"nama": "Barrett Hayes",
+		"email": "sagittis.augue@aol.ca",
+		"tanggal_lahir": "2013-04-30",
+		"role": "siswa",
+		"umur": 26
+	},
+	{
+		"nama": "Nasim Banks",
+		"email": "sed@hotmail.ca",
+		"tanggal_lahir": "2003-12-18",
+		"role": "siswa",
+		"umur": 31
+	}
+]

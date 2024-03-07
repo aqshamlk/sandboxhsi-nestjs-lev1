@@ -1,0 +1,37 @@
+[
+	{
+		"nama": "Jacob Carroll",
+		"email": "nunc.quis@protonmail.couk",
+		"tanggal_lahir": "Feb 28, 2025",
+		"role": "admin",
+		"umur": 28
+	},
+	{
+		"nama": "Ginger Long",
+		"email": "ac@google.net",
+		"tanggal_lahir": "May 31, 2024",
+		"role": "admin",
+		"umur": 35
+	},
+	{
+		"nama": "Fritz Rowland",
+		"email": "proin.nisl.sem@yahoo.couk",
+		"tanggal_lahir": "Sep 23, 2024",
+		"role": "siswa",
+		"umur": 33
+	},
+	{
+		"nama": "Adara Good",
+		"email": "nam.ac.nulla@aol.com",
+		"tanggal_lahir": "Dec 7, 2023",
+		"role": "siswa",
+		"umur": 31
+	},
+	{
+		"nama": "Glenna West",
+		"email": "odio.tristique@icloud.org",
+		"tanggal_lahir": "Oct 14, 2024",
+		"role": "guru",
+		"umur": 37
+	}
+]
